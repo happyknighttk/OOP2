@@ -1,5 +1,5 @@
-﻿//Don't repeat yourself - DRY - Clean Code - Best Practice
-//3. Gün
+﻿//3. Gün C# Temelleri 2
+//Don't repeat yourself - DRY - Clean Code - Best Practice
 
 using Methods;
 

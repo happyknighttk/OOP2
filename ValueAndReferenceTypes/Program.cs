@@ -1,4 +1,4 @@
-﻿//3. Gün
+﻿//3. Gün C# Temelleri 2
 
 int n1 = 10;
 int n2 = 20;
